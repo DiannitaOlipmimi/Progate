@@ -19,6 +19,9 @@
     - list
     - message section
 
+## Study: Javascript
+
+
 ## Dojo: HTML & CSS
 1. HTML & CSS I
 
